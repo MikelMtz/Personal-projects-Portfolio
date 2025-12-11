@@ -1,0 +1,1 @@
+This research project of 20 ECTS
