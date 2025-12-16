@@ -1,3 +1,17 @@
+# Encryption Protocols Comparison
+
+This section focuses on encryption protocols, with a particular emphasis on RSA.
+
+## Contents
+
+- **RSA Protocol**: Implementation and analysis of the RSA encryption algorithm.
+- **Cracking RSA Protocol**: Exploration of vulnerabilities in RSA and methods to exploit them.
+- **RSA Output Graphs**: Visualizations of RSA-related data.
+
+Explore the notebooks and graphs to understand the encryption techniques and their analysis.
+
+---
+
 This was a project part of BSc Physics at the University of Groningen, integrated in the course Physics Laboratory III.
 
 The project consisted on testing the differences between classical and quantum encryption algorithms. The classical RSA method
