@@ -1,13 +1,10 @@
-This is a selected number of notebooks and shortened versions of projects that reflect my ability and experience with data analysis, statistical modelling and different methods.
+# Personal Projects Portfolio
+Welcome to my personal portfolio! This repository contains a collection of projects that demonstrate my skills and interests in various fields, including computational methods, encryption protocols, statistical hypothesis testing, quantum computing, and material science. Below is an overview of the projects included in this portfolio.
 
-# Structure
-The folders correspond to a variety of projects I have worked on during my BSc and MSc education. The details of each project are given here below
-
-# TM defects in Silicon Carbide
-# Roughness effects on slip boundary
-# Qiskit Learning
-# Practical Statistical Hypothesis Testing
-# Computational Methods course
-# Encryption protocols comparison
-# Personal app?
- 
+## Table of Contents
+ 1. Computational Methods Course
+ 2. Encryption Protocols Comparison
+ 3. Practical Statistical Hypothesis Testing
+ 4. Qiskit Learning
+ 5. Roughness Effects on Slip Boundary
+ 6. TM Defects in Silicon Carbide
