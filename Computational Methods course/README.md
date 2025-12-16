@@ -1,11 +1,6 @@
-This was a course part of BSc Physics at the University of Groningen worth 5ECTS.
+# Computational Methods Course
+This folder contains projects and exercises from a computational methods course. Topics include numerical methods, algorithm design, and problem-solving techniques.
 
-The course consisted of various coding projects done in groups of 4 with 4 big themes:
-
- - Mathematica (not shown in this repository)
-
- - Differential equations numerical methods: project_2_ex1.py
-
- - Statistical methods: project_3.ipynb
-
- - Machine Learning basics: project_4.ipynb
+ - Project 2 Exercise 1: Python script for solving a specific computational problem.
+ - Project 3: Jupyter Notebook exploring advanced computational techniques.
+ - Project 4: Jupyter Notebook analyzing a complex problem.

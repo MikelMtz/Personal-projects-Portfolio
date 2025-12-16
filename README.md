@@ -1,10 +1,77 @@
 # Personal Projects Portfolio
+
 Welcome to my personal portfolio! This repository contains a collection of projects that demonstrate my skills and interests in various fields, including computational methods, encryption protocols, statistical hypothesis testing, quantum computing, and material science. Below is an overview of the projects included in this portfolio.
 
+---
+
 ## Table of Contents
- 1. Computational Methods Course
- 2. Encryption Protocols Comparison
- 3. Practical Statistical Hypothesis Testing
- 4. Qiskit Learning
- 5. Roughness Effects on Slip Boundary
- 6. TM Defects in Silicon Carbide
+1. [Computational Methods Course](#computational-methods-course)
+2. [Encryption Protocols Comparison](#encryption-protocols-comparison)
+3. [Practical Statistical Hypothesis Testing](#practical-statistical-hypothesis-testing)
+4. [Qiskit Learning](#qiskit-learning)
+5. [Roughness Effects on Slip Boundary](#roughness-effects-on-slip-boundary)
+6. [TM Defects in Silicon Carbide](#tm-defects-in-silicon-carbide)
+
+---
+
+## Computational Methods Course
+This folder contains projects and exercises from a computational methods course. Topics include numerical methods, algorithm design, and problem-solving techniques.
+
+- **Project 2 Exercise 1**: Python script for solving a specific computational problem.
+- **Project 3**: Jupyter Notebook exploring advanced computational techniques.
+- **Project 4**: Jupyter Notebook analyzing a complex problem.
+
+---
+
+## Encryption Protocols Comparison
+This section focuses on encryption protocols, with a particular emphasis on RSA.
+
+- **RSA Protocol**: Implementation and analysis of the RSA encryption algorithm.
+- **Cracking RSA Protocol**: Exploration of vulnerabilities in RSA and methods to exploit them.
+- **RSA Output Graphs**: Visualizations of RSA-related data.
+
+---
+
+## Practical Statistical Hypothesis Testing
+Projects in this folder involve statistical analysis and hypothesis testing.
+
+- **ANOVA Models**: Jupyter Notebooks analyzing variance in different datasets.
+- **Datasets**: Includes `STUDENTS.csv` and `TEACHERS.csv` for statistical analysis.
+
+---
+
+## Qiskit Learning
+A collection of notebooks documenting my journey in learning quantum computing using Qiskit.
+
+- **Introductory Course**: Notebooks from a YouTube course on Qiskit basics.
+- **First Principles**: Exploration of fundamental quantum computing concepts.
+- **Quantum Information and Computation**: Tutorials on quantum algorithms and information theory.
+- **Variational Algorithm Design**: Advanced topics in quantum algorithm design.
+
+---
+
+## Roughness Effects on Slip Boundary
+This section contains data analysis and visualization projects related to material science.
+
+- **Data Processing**: Jupyter Notebooks for processing experimental data.
+- **Final Plots**: Scripts and data for generating final visualizations.
+- **Datasets**: Raw and processed data files for analysis.
+
+---
+
+## TM Defects in Silicon Carbide
+Research projects focused on transition metal defects in silicon carbide.
+
+- **Point Charge Model**: Preliminary and advanced calculations using point charge models.
+- **Real Atom Calculations**: Simulations using OpenMolcas.
+- **AMS Calculations**: Advanced material simulations for SiC-4H.
+
+---
+
+## How to Navigate
+Each folder contains a `README.md` file with more detailed information about the specific project. Feel free to explore the files and notebooks to learn more about my work.
+
+---
+
+## Contact
+If you have any questions or would like to collaborate, feel free to reach out to me via [your email or LinkedIn profile].
