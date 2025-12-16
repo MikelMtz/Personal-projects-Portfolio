@@ -1,1 +1,0 @@
-This project contains all my work during the BSc thesis and consequent internship
