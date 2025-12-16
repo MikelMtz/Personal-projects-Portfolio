@@ -1,1 +1,1 @@
-This research project of 20 ECTS
+This research project of 20 ECTS (low_velocities folder)
