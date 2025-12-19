@@ -6,7 +6,7 @@ Welcome to my personal portfolio! This repository contains a collection of proje
 
 ## Table of Contents
 1. [Computational Methods Course](#computational-methods-course)
-2. [Encryption Protocols Comparison](#encryption-protocols-comparison)
+2. [Quantum Cryptography Project](#quantum-cryptography-project)
 3. [Practical Statistical Hypothesis Testing](#practical-statistical-hypothesis-testing)
 4. [Qiskit Learning](#qiskit-learning)
 5. [Roughness Effects on Slip Boundary](#roughness-effects-on-slip-boundary)
@@ -23,7 +23,7 @@ This folder contains projects and exercises from a computational methods course.
 
 ---
 
-## Encryption Protocols Comparison
+## Quantum Cryptography Project
 This section focuses on encryption protocols, with a particular emphasis on RSA.
 
 - **RSA Protocol**: Implementation and analysis of the RSA encryption algorithm.
