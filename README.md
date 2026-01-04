@@ -74,4 +74,4 @@ Each folder contains a `README.md` file with more detailed information about the
 ---
 
 ## Contact
-If you have any questions or would like to collaborate, feel free to reach out to me via [your email or LinkedIn profile].
+If you have any questions or would like to collaborate, feel free to reach out to me via mikelm.correo@gmail.com or www.linkedin.com/in/mikel-martínez-garrido-386375229.
