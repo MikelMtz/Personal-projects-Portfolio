@@ -6,5 +6,22 @@ It consisted on analysing large pieces of data from an atomic force microscope. 
 
 ## Contents
 
- - **Final plots** (folder): This folder contains the jupyter notebooks to plot the height distributions of the plates analysed with the atomic force microscope, the comparison plots for different velocities, plots of the slip lenghts with various approaches
- - **Processing data** (folder): This folder contains the data processing of the raw data for different interfaces: Gold-Gold, Gold-Borosilicate (three times), Silicon-Borosilicate.
+### Final plots
+This folder contains:
+- **height_distrib_plots.ipynb**: Height distribution plot of the plates measured with an atomic force microscope
+- **Plot_for_Au_Au.ipynb**:  
+- **Plot_for_Au_BSG_X1.ipynb**: 
+- **Plot_for_Au_BSG_X2.ipynb**: 
+- **Plot_for_Au_BSG_X3.ipynb**: 
+- **Plot_for_Si_BSG.ipynb**: 
+- **Plots_same_velocities.ipynb**: 
+- **Slip_lengths_plotting_alternative_approach.ipynb**: 
+- **Slip_lengths_plotting.ipynb**: 
+
+### Processing data
+This folder contains:
+- **Process_data_Au_Au.ipynb**: 
+- **Process_data_Au_BSG_X1.ipynb**: 
+- **Process_data_Au_BSG_X2.ipynb**: 
+- **Process_data_Au_BSG_X3.ipynb**: 
+- **Process_data_Si_BSG.ipynb**: 
