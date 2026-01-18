@@ -1,22 +1,12 @@
 # Practical Statistical Hypothesis Testing
 
-Projects in this folder involve statistical analysis and hypothesis testing.
+This was a project part of the Honours College programme of the University of Groningen, integrated in the deepening modules (Practical Statistical Hypothesis Testing course).
+
+The project consisted in collecting data and performing a statistical hypothesis testing from scratch in groups of 4-5 people. Our group looked at how professors and students were able to discern between human and AI written texts (in 2023). 
 
 ## Contents
 
-- **ANOVA Models**: Jupyter Notebooks analyzing variance in different datasets.
-- **Datasets**: Includes `STUDENTS.csv` and `TEACHERS.csv` for statistical analysis.
-
-These projects demonstrate the application of statistical methods to real-world data. Explore the notebooks and datasets for detailed insights.
-
----
-
-This was a project part of the Honours College programme of the University of Groningen, integrated in the deepening modules.
-
-The project consisted in collecting data and performing a statistical hypothesis testing from scratch in groups of 4-5 people. In our case we were interested in looking at how professors and students were able to discern between human and AI written texts. 
-
-### Files
-
- - ANOVA model - field.ipynb:
- - ANOVA stat model - confidence.ipynb:
- - STUDENTS.csv & TEACHERS.csv: collected data
+- **ANOVA model - field.ipynb**: Raw data visualisation, D'Agostino's K-squared test, ANOVA for data analysis (field context)
+- **ANOVA stat model - confidence.ipynb**: Data analysis, data preparation and statistical testing, confidence interval calculations
+- **STUDENTS.csv**: raw collected data for students
+- **TEACHERS.csv**: raw collected data for teachers
