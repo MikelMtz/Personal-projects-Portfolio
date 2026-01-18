@@ -1,15 +1,10 @@
 # Roughness Effects on Slip Boundary
 
-This section contains data analysis and visualization projects related to material science.
+This was a project part of the Honours College programme of the University of Groningen, integrated as an Advanced Research Project (20 ECTS).
+
+It consisted on analysing large pieces of data from an atomic force microscope. The aim was to analyze the effects of roughness on slip boundaries.
 
 ## Contents
 
-- **Data Processing**: Jupyter Notebooks for processing experimental data.
-- **Final Plots**: Scripts and data for generating final visualizations.
-- **Datasets**: Raw and processed data files for analysis.
-
-These projects analyze the effects of roughness on slip boundaries. Explore the notebooks and datasets for detailed insights.
-
----
-
-This research project of 20 ECTS (low_velocities folder)
+ - **Final plots** (folder): This folder contains the jupyter notebooks to plot the height distributions of the plates analysed with the atomic force microscope, the comparison plots for different velocities, plots of the slip lenghts with various approaches
+ - **Processing data** (folder): This folder contains the data processing of the raw data for different interfaces: Gold-Gold, Gold-Borosilicate (three times), Silicon-Borosilicate.

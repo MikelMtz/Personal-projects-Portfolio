@@ -18,8 +18,8 @@ Welcome to my personal portfolio! This repository contains a collection of proje
 This folder contains projects and exercises from a computational methods course. Topics include numerical methods, algorithm design, and problem-solving techniques.
 
 - **Project 2 Exercise 1**: Python script for solving a specific computational problem.
-- **Project 3**: Jupyter Notebook exploring advanced computational techniques.
-- **Project 4**: Jupyter Notebook analyzing a complex problem.
+- **Project 3**: Jupyter Notebook exploring numerical mehtods
+- **Project 4**: Jupyter Notebook on simple ML techniques
 
 ---
 
@@ -45,17 +45,16 @@ A collection of notebooks documenting my journey in learning quantum computing u
 
 - **Introductory Course**: Notebooks from a YouTube course on Qiskit basics.
 - **First Principles**: Exploration of fundamental quantum computing concepts.
-- **Quantum Information and Computation**: Tutorials on quantum algorithms and information theory.
+- **Quantum Information and Computation**: Tutorials and lecture content on basic squantum algorithms and information theory.
 - **Variational Algorithm Design**: Advanced topics in quantum algorithm design.
 
 ---
 
 ## Roughness Effects on Slip Boundary
-This section contains data analysis and visualization projects related to material science.
+This section contains data analysis and visualization for a Advanced Research Project in nanophysics.
 
-- **Data Processing**: Jupyter Notebooks for processing experimental data.
-- **Final Plots**: Scripts and data for generating final visualizations.
-- **Datasets**: Raw and processed data files for analysis.
+ - **Final plots** (folder): Relevant plots of the project.
+ - **Processing data** (folder): This folder contains the data processing of the raw data for different interfaces: Gold-Gold, Gold-Borosilicate (three times), Silicon-Borosilicate.
 
 ---
 
